@@ -1,0 +1,130 @@
+body{
+	width:1120px;
+	height:698px;
+	margin:auto;
+	background-image:url('../images/back1.png');
+	background-size: 1466px 1269px;
+	background-repeat: no-repeat;
+}
+
+.regjistrohu{
+	
+	margin-left:180px;
+	
+}
+
+
+
+.navbar {
+		
+}
+
+
+.navbar ul{
+	background-color:rgba(0,0,0,0.5);
+	padding:0;
+	margin:0;
+	height:70px;
+	width:1100px;
+	margin:auto;
+	
+}
+.navbar ul li {
+	
+	display:inline-block;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:20px;
+	margin-top:10px;
+}
+.navbar ul li a{
+	color:white;
+	text-decoration:none;
+	margin:20px;
+	padding:13px;
+	font-size:24px;
+}
+#porositpizza{
+	background:linear-gradient(#464646 20px,#222222);
+	color:white;
+	border-radius:5px;
+	margin-top:0;
+}
+#porositpizza:hover{
+	background:linear-gradient( #222222,#464646);
+}
+
+	
+.text1{
+	color:red;
+	font-size:24px;
+	text-align:left;
+	margin-top:10px;
+	font-size: 248%;
+	margin-left: 41px;
+}	
+.pizza {
+    margin: 19px;
+    border: transparent;
+    float: left;
+    width: 205px;
+	padding: 17px;
+	background-color:linear-gradient;
+}
+.pizza :hover {
+    border: transparent;
+}
+
+.pizza  images {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+	color:white;
+	font-size:130%;
+	
+}
+.button1 {
+	padding: 10px 73px;
+	background-color:#A52A2A;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 16px;
+	margin-left:650px;
+	margin-top: 36px;
+	color:white;
+	border-radius:5px;
+	
+}
+
+.button{
+	padding: 14px 73px;
+	background-color:#A52A2A;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 16px;
+	color:white;
+	border-radius:5px;
+	
+}
+	
+	
+.cr{
+	text-align:center;
+	background-color:rgba(0,0,0,0.5);
+	color:white;
+	height:50px;
+	margin-top:164px;
+	clear:both;
+}
+
+#copyright{
+	padding-top:20px;
+}
+
+
